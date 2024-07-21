@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "486760118149",
+    "project_id": "shoppingapptask-52ae6",
+    "storage_bucket": "shoppingapptask-52ae6.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:486760118149:android:b933dd44ac34ef8f5436ec",
+        "android_client_info": {
+          "package_name": "com.example.flutter_firebase_shopping_app_task"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC68BHaZEpOxz4lKiWuEC8grNlllBdmLtw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
